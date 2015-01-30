@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-65bb5b624141fd496ae3d0f36e7b8de93fadfd6a.jar" />
+    </item>
+    <item
+        jar="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/pre-dexed/debug/classes-667e45f04f7fe9765f40f4601c3e82c9fbab0b80.jar" />
+    </item>
+    <item
+        jar="/Coding/AndroidIDE/adt/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-45434c85985f311b238442d3dae4e64c6290593c.jar" />
+    </item>
+    <item
+        jar="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Coding/WorkSpace/AndroidStudioWorkspace/android-coustom-tab-with-viewpager/app/build/intermediates/pre-dexed/debug/classes-4d389e79a481bbacc8dd06a4b1413c04717457f8.jar" />
+    </item>
+
+</items>
